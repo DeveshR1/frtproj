@@ -7,7 +7,7 @@ Future ready talent project Project Name:- Aquarium buying website
 
 Here i have created a aquarium design and manufacture website, which help a customer to buy a aquarium according to its needs and our Aquarium Maintenance Services increases the life of Aquarium and our Aquarium price is very cheap.
 
-Microsoft Asure link :- https://salmon-hill-062128510.1.azurestaticapps.net
+Microsoft Asure link :- 
 
 HOME PAGE :![image](https://user-images.githubusercontent.com/91527780/175078280-fe966ed7-9f8f-410f-8c3e-7038a02d9a6d.png)
 
